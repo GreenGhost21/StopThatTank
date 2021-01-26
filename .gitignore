@@ -3,3 +3,4 @@
 msvc*/
 build*/
 .vscode/
+addons/sourcemod/configs/stt/maps/compatibility-info.txt
